@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Core\Forms\AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Forms\AddImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Forms\ImageEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Forms\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Forms\Webhook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
